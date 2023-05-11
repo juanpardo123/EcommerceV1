@@ -1050,10 +1050,37 @@ select {
     }
 
     .top-bar{
-            display: none;
+        display: flex;
+        list-style: none;
+        width: auto;
+        /* margin: 0rem; */
+        flex-direction: row;
+        /* width: 74vw; */
+        align-content: center;
+        align-items: center;
+        padding: 0;
+        gap: 1rem;
+        margin: 1rem;
+        flex-wrap: nowrap;
         }
 
     .hamburger {
         display: block;
+    }
+    .showing3{
+        display: flex;
+    background-image: url(/Images/great.png);
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    aspect-ratio: 1/1;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    }
+    .showing4{
+        width: 100%;
     }
 }

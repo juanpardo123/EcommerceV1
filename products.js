@@ -1,3 +1,7 @@
+let hamburger = document.querySelector('.hamburger');
+let dropmenu = document.querySelector('.button-show');
+   
+   
    // animations on scroll
    const observer = new IntersectionObserver((entries) =>{
     entries.forEach((entry) => {
@@ -50,4 +54,6 @@ fetch("data.json").then((data) => {
         })
     });
 
- 
+    hamburger.addEventListener('click',function (e) {
+        dropmenu.className = "top-bar-show"
+     });

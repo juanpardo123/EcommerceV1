@@ -1,3 +1,8 @@
+
+
+let hamburger = document.querySelector('.hamburger');
+let dropmenu = document.querySelector('.button-show');
+
 const observer = new IntersectionObserver((entries) =>{
     entries.forEach((entry) => {
         if(entry.isIntersecting){
@@ -167,4 +172,6 @@ const observer = new IntersectionObserver((entries) =>{
   
   carousel2();
  
- 
+  hamburger.addEventListener('click',function (e) {
+    dropmenu.className = "top-bar-show"
+ });
