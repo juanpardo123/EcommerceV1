@@ -24,9 +24,14 @@
 	.st18{display:inline;fill:#F50F4B;stroke:#000000;}
 	.st19{font-family:'NotoSans-Bold';}
 	.st20{font-size:216px;}
-	.st21{fill:#E01212;}
-	.st22{font-family:'Facon';}
-	.st23{font-size:135.9096px;}
+	.st21{display:inline;fill:#F50F4B;}
+	.st22{font-family:'GisbonDEMO';}
+	.st23{fill:#F50F4B;}
+	.st24{font-family:'EthnocentricRg-Italic';}
+	.st25{font-size:128.8869px;}
+	.st26{display:inline;fill:#E01212;}
+	.st27{font-family:'Facon';}
+	.st28{font-size:135.9096px;}
 </style>
 <g id="Layer_1" class="st0">
 	
@@ -21223,11 +21228,17 @@ A22rVd6r3Ej6AAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=" transform="mat
 	<rect x="753.62" y="707.11" class="st17" width="4.09" height="2.04"/>
 </g>
 <g id="Layer_10" class="st0">
-	<polyline class="st18" points="677.56,437.61 715.45,437.61 755.32,525.25 799.53,437.61 835.06,437.61 756.31,597.88 	"/>
-	<rect x="853.7" y="430.11" class="st2" width="755.74" height="175.27"/>
-	<text transform="matrix(1 0 0 1 853.7019 594.2706)" class="st18 st19 st20">IDEO</text>
+	<polyline class="st18" points="577.95,650.91 615.85,650.91 655.71,738.54 699.93,650.91 735.45,650.91 656.7,811.18 	"/>
+	<rect x="754.1" y="643.41" class="st2" width="755.74" height="175.27"/>
+	<text transform="matrix(1 0 0 1 754.0948 807.5664)" class="st18 st19 st20">IDEO</text>
 </g>
-<g id="Layer_11">
-	<text transform="matrix(1 0 0 1 581.3324 787.3843)" class="st21 st22 st23">Horizon</text>
+<g id="Layer_12" class="st0">
+	<text transform="matrix(1 0 0 1 764.8954 812.9141)" class="st21 st22 st20">Slate</text>
+</g>
+<g id="Layer_13">
+	<text transform="matrix(1 0 0 1 619.6792 733.5166)" class="st23 st24 st25">watch</text>
+</g>
+<g id="Layer_11" class="st0">
+	<text transform="matrix(1 0 0 1 581.3324 787.3843)" class="st26 st27 st28">Horizon</text>
 </g>
 </svg>
