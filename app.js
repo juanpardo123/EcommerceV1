@@ -7,6 +7,8 @@ let redButton = document.querySelector('.red');
 let blackButton = document.querySelector('.black');
 let greenButton = document.querySelector('.green');
 let blurCover = document.querySelector('.blur-cover');
+let hamburger = document.querySelector('.hamburger');
+let dropmenu = document.querySelector('button-show');
 
 blueButton.addEventListener('click',function (e) {
    backdrop.className = "backing";
@@ -86,7 +88,9 @@ const videoPlay = document.querySelectorAll('video');
 videoPlay.forEach((el) => videoObserver.observe(el));
 hiddenElements.forEach((el) => observer.observe(el));
 
-
+hamburger.addEventListener('click',function (e) {
+   dropmenu.className = ""
+});
 
 
 // function carousel() {
