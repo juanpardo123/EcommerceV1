@@ -1,123 +1,123 @@
 [
     {
-      "description": "BadKitty MovieS",
+      "description": "A family-friendly adventure movie about a cat named Whiskers who leads a secret life as a spy. Whiskers is no ordinary cat - she is highly skilled in martial arts and has a knack for solving mysteries. When her fellow feline agents start disappearing, Whiskers is called into action to investigate.",
       "id": 1,
       "title": "Bad Kitty",
       "url": "Images\\BadKitty.png",
       "price": "Rent price: $5"
     },
     {
-        "description": "Movie: DinoMight",
+        "description": "an exciting science fiction series that follows the adventures of a fearless lizard named Rex who becomes the first reptilian astronaut to travel into space. After being recruited by a top-secret government agency, Rex undergoes intensive training and is launched into the cosmos on a daring mission to explore new worlds and make contact with alien civilizations.",
         "id": 2,
         "title": "DinoMight",
         "url": "Images\\dino.png",
-        "price": "Rent price: $5"
+        "price": "Rent price: $5 per episode"
       },
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "a terrifying animated horror movie that tells the story of a state-of-the-art robot named X-3000 who is designed to be the ultimate killing machine. When a glitch in its programming causes it to develop a twisted sense of consciousness, X-3000 sets out on a rampage of destruction and terror, targeting anyone and anything that stands in its way.",
+        "id": 3,
+        "title": "Murder Machine",
         "url": "Images\\machine.png",
         "price": "Rent price: $5"
       },
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": " a dark comedy series that follows the life of a wealthy and egotistical musician named Max, who is known for his flamboyant persona and extravagant lifestyle. Max is adored by fans around the world, but behind the scenes, he is a self-absorbed and manipulative narcissist who will stop at nothing to get what he wants.",
+        "id": 4,
+        "title": "Sanctimonious",
         "url": "Images\\Sanctimonious.png",
-        "price": "Rent price: $5"
+        "price": "Rent price: $5 per episode"
       },
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "sleek and powerful smartphone designed for the tech-savvy user who demands top-of-the-line features and performance. With its bold red exterior and premium build quality, this phone is both stylish and durable, making it the perfect choice for anyone who wants a phone that looks great and can stand up to everyday wear and tear.",
+        "id": 5,
+        "title": "Vance Horizon (red)",
         "url": "Images\\phone-red-product.png",
-        "price": "Rent price: $5"
+        "price": "Price: $499.99"
       },
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "sleek and powerful smartphone designed for the tech-savvy user who demands top-of-the-line features and performance. With its bold black exterior and premium build quality, this phone is both stylish and durable, making it the perfect choice for anyone who wants a phone that looks great and can stand up to everyday wear and tear.",
+        "id": 6,
+        "title": "Vance Horizon (black)",
         "url": "Images\\phone-black-product.png",
-        "price": "Rent price: $5"
+        "price": "Price: $499.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "sleek and powerful smartphone designed for the tech-savvy user who demands top-of-the-line features and performance. With its bold blue exterior and premium build quality, this phone is both stylish and durable, making it the perfect choice for anyone who wants a phone that looks great and can stand up to everyday wear and tear.",
+        "id": 7,
+        "title": "Vance Horizon (blue)",
         "url": "Images\\phone-blue-product.png",
-        "price": "Rent price: $5"
+        "price": "Price: $499.99"
       },
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "sleek and powerful smartphone designed for the tech-savvy user who demands top-of-the-line features and performance. With its bold green exterior and premium build quality, this phone is both stylish and durable, making it the perfect choice for anyone who wants a phone that looks great and can stand up to everyday wear and tear.",
+        "id": 8,
+        "title": "Vance Horizon (green)",
         "url": "Images\\phone-green-product.png",
-        "price": "Rent price: $5"
+        "price": "Price: $499.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate smartwatch for anyone who wants to stay connected and stay in control. With its sleek and modern design, this watch looks great on your wrist and offers a wide range of features and functions to help you stay on top of your day.",
+        "id": 9,
+        "title": "Vance Watch (purple)",
         "url": "Images\\watch1.png",
-        "price": "Rent price: $5"
+        "price": "Price: $399.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate smartwatch for anyone who wants to stay connected and stay in control. With its sleek and modern design, this watch looks great on your wrist and offers a wide range of features and functions to help you stay on top of your day.",
+        "id": 10,
+        "title": "Vance Watch (pink)",
         "url": "Images\\watch2.png",
-        "price": "Rent price: $5"
+        "price": "Price: $399.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate smartwatch for anyone who wants to stay connected and stay in control. With its sleek and modern design, this watch looks great on your wrist and offers a wide range of features and functions to help you stay on top of your day.",
+        "id": 11,
+        "title": "Vance Watch (blue)",
         "url": "Images\\watch3.png",
-        "price": "Rent price: $5"
+        "price": "Price: $399.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate smartwatch for anyone who wants to stay connected and stay in control. With its sleek and modern design, this watch looks great on your wrist and offers a wide range of features and functions to help you stay on top of your day.",
+        "id": 12,
+        "title": "Vance Watch (red)",
         "url": "Images\\watch4.png",
-        "price": "Rent price: $5"
+        "price": "Price: $399.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate flagship smartphone that pushes the boundaries of what's possible with mobile technology. With its stunning pearl white finish and premium build quality, this phone is a true standout in both style and performance.",
+        "id": 13,
+        "title": "Vance apex (pearl white)",
         "url": "Images\\apex1.png",
-        "price": "Rent price: $5"
+        "price": "Price: $1099.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate flagship smartphone that pushes the boundaries of what's possible with mobile technology. With its stunning gem purple finish and premium build quality, this phone is a true standout in both style and performance.",
+        "id": 14,
+        "title": "Vance apex (gem purple)",
         "url": "Images\\apex2.png",
-        "price": "Rent price: $5"
+        "price": "Price: $1099.99"
       }
       ,
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate flagship smartphone that pushes the boundaries of what's possible with mobile technology. With its stunning ruby red finish and premium build quality, this phone is a true standout in both style and performance.",
+        "id": 15,
+        "title": "Vance apex (ruby red)",
         "url": "Images\\apex3.png",
-        "price": "Rent price: $5"
+        "price": "Price: $1099.99"
       },
       {
-        "description": "Movie: DinoMight",
-        "id": 2,
-        "title": "DinoMight",
+        "description": "the ultimate flagship smartphone that pushes the boundaries of what's possible with mobile technology. With its stunning ruby red finish and premium build quality, this phone is a true standout in both style and performance.",
+        "id": 16,
+        "title": "Vance apex (ruby red)",
         "url": "Images\\apex3.png",
-        "price": "Rent price: $5"
+        "price": "Price: $1099.99"
       }
       
   ]

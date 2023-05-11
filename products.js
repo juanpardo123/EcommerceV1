@@ -1,3 +1,18 @@
+   // animations on scroll
+   const observer = new IntersectionObserver((entries) =>{
+    entries.forEach((entry) => {
+        if(entry.isIntersecting){
+            entry.target.classList.add('show');
+        }
+    })
+ });
+
+ const hiddenElements = document.querySelectorAll('.hidden , .hidden-left, .hidden-right, .hidden-center, .hidden-center-1 , .hidden-center-2 , .hidden-center-3 , .hidden-center-4, .hidden-grow, .hidden-background, .hidden-up, .hidden-down');
+
+ hiddenElements.forEach((el) => observer.observe(el));
+
+
+
 const slider = document.getElementById("slider");
 
 fetch("data.json").then((data) => {
@@ -18,7 +33,7 @@ fetch("data.json").then((data) => {
             let h3 = document.createElement("h3");
             let idStyle = document.getElementsByClassName(`${val.id}`);
 
-            div.className = "product-container " + val.id; 
+            div.className = "product-container " + val.id ; 
             title.innerHTML = val.title;
             p.innerHTML = val.description;
             h3.innerHTML = val.price;
@@ -34,3 +49,5 @@ fetch("data.json").then((data) => {
 
         })
     });
+
+ 
