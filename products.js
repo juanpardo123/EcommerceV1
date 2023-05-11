@@ -16,18 +16,21 @@ fetch("data.json").then((data) => {
             let title = document.createElement("h1");
             let p = document.createElement("p");
             let h3 = document.createElement("h3");
+            let idStyle = document.getElementsByClassName(`${val.id}`);
 
-            div.className = "product-container"
+            div.className = "product-container " + val.id; 
             title.innerHTML = val.title;
             p.innerHTML = val.description;
             h3.innerHTML = val.price;
             h3.className = "price"
             //now we will call 2nd api for images
             img.src = `${url}`;
+            console.log(idStyle.style);
             slider.appendChild(div);
             div.appendChild(img);
             div.appendChild(title);
             div.appendChild(p);
             div.appendChild(h3);
+
         })
     });

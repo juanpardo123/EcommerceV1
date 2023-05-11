@@ -101,7 +101,7 @@
         "description": "Movie: DinoMight",
         "id": 2,
         "title": "DinoMight",
-        "url": "Images\\watch3.png",
+        "url": "Images\\apex2.png",
         "price": "Rent price: $5"
       }
       ,
@@ -109,7 +109,14 @@
         "description": "Movie: DinoMight",
         "id": 2,
         "title": "DinoMight",
-        "url": "Images\\watch3.png",
+        "url": "Images\\apex3.png",
+        "price": "Rent price: $5"
+      },
+      {
+        "description": "Movie: DinoMight",
+        "id": 2,
+        "title": "DinoMight",
+        "url": "Images\\apex3.png",
         "price": "Rent price: $5"
       }
       
